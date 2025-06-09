@@ -1,0 +1,19 @@
+{
+    "_comment": "knowledge_base/software_eng.json",
+    "aliases": ["coding", "programming", "software development", "software engineering"],
+    "core_skills": ["Data Structures & Algorithms", "Version Control (Git)", "OOP Principles"],
+    "languages": ["Python", "Java/JavaScript", "C++ (for systems programming)"],
+    "overview": "Building scalable systems using programming languages...",
+  "pros": ["High salary", "Remote work options", "Creative problem-solving"],
+  "cons": ["Long hours during crunch time", "Rapid tech obsolescence"],
+  "resources": {
+    "books": ["Clean Code", "Designing Data-Intensive Applications"],
+    "websites": ["freeCodeCamp", "LeetCode"]
+  },
+    "steps": [
+        "1. Master one language deeply",
+        "2. Build 2-3 portfolio projects",
+        "3. Practice Leetcode-style problems",
+        "4. Contribute to open source"
+    ]
+}
